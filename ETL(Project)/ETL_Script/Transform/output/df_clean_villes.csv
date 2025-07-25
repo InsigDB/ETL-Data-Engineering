@@ -1,0 +1,101 @@
+city_id,city_name,country_id
+1,Saint Emmanuelle,18
+2,Cordier,12
+3,Prévostnec,11
+4,Sainte Maurice,11
+5,Sainte Marianne-la-Forêt,7
+6,Petit,5
+7,Baudrydan,17
+8,Michel,31
+9,Giraudnec,3
+10,Julien,5
+11,Saint Virginie,17
+12,Carpentier,18
+13,Sainte Théodore,13
+14,Voisin,20
+15,Le Goff,39
+16,Ruiz,37
+17,Sainte Andrénec,22
+18,Michel,9
+19,Sainte Luc,42
+20,LeleuVille,1
+21,Poirier-la-Forêt,19
+22,Sainte Suzanne,19
+23,Jacquot,39
+24,Saint Élisabeth,5
+25,Bernard,27
+26,Blanc,3
+27,Blot,27
+28,Simon-sur-Legendre,24
+29,Guichard,39
+30,Faivre-sur-Gaillard,6
+31,Brunel,31
+32,Guyon,31
+33,Le Gallboeuf,10
+34,Sainte Renéboeuf,40
+35,Coste,41
+36,Laroche-sur-Da Silva,9
+37,Saint Capucine,26
+38,Vincent,13
+39,Andre,43
+40,Sainte Colette,38
+41,Lévêque,2
+42,Sainte Benjaminnec,36
+43,Noël,33
+44,Berger-sur-Pottier,43
+45,Dubois-sur-Guillaume,38
+46,Rocher,20
+47,Tessier-sur-Gilles,21
+48,Sainte Victoire,33
+49,Hernandez,33
+50,Morel,36
+51,Sainte Josette,22
+52,Costa,17
+53,Lebon,17
+54,Sainte Lorrainenec,41
+55,NeveuBourg,29
+56,PhilippeBourg,38
+57,Sainte Daniel-la-Forêt,30
+58,Saint ÉlodieBourg,5
+59,Legendre,41
+60,Legrand,18
+61,Sainte Frédériqueboeuf,1
+62,Sainte Nathalie,34
+63,Gonzalez-la-Forêt,10
+64,Hebert,28
+65,Philippe-les-Bains,35
+66,GillesVille,46
+67,Collet,13
+68,Ramos,44
+69,Aubert,29
+70,Gimeneznec,7
+71,Legros-les-Bains,37
+72,Pottier,14
+73,Robertdan,36
+74,Picardboeuf,29
+75,Charpentier-sur-Mer,35
+76,Saint Yves,31
+77,Moreno,41
+78,Rolland,45
+79,Bègue,8
+80,Masson,1
+81,Didier,24
+82,Pons-sur-Lévy,37
+83,Hervé,25
+84,Saint Jules-sur-Mer,15
+85,Lecoq,35
+86,Masson,30
+87,Sanchez,38
+88,Lebretondan,30
+89,Jolyboeuf,22
+90,Saint Geneviève,46
+91,Sainte Gilbert,7
+92,Aubertboeuf,20
+93,Pinto-les-Bains,44
+94,Roger-les-Bains,15
+95,Ferranddan,16
+96,Renault-sur-Barbe,24
+97,Launay,11
+98,Le Goff-la-Forêt,25
+99,Fabre,25
+100,Gaudindan,39
